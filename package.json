@@ -1,0 +1,25 @@
+{
+  "name": "tibbar-autoack",
+  "version": "0.0.1",
+  "description": "Middleware to automatically ack messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brendan-myers/tibbar-autoack.git"
+  },
+  "keywords": [
+    "tibbar",
+    "middleware",
+    "rabbitmq",
+    "microservices"
+  ],
+  "author": "Brendan Myers <brendan@skygrid.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brendan-myers/tibbar-autoAck/issues"
+  },
+  "homepage": "https://github.com/brendan-myers/tibbar-autoAck#readme"
+}
